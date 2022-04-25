@@ -1,4 +1,3 @@
-node_modules
 .vscode
 .next
 .next/cache/webpack/client-development/1.pack
